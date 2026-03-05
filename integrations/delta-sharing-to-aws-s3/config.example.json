@@ -1,0 +1,6 @@
+{
+  "shareCredentialsVersion": 1,
+  "endpoint": "https://<delta-sharing-endpoint>/delta-sharing/",
+  "bearerToken": "<your-bearer-token>",
+  "expirationTime": "2027-01-01T00:00:00.000Z"
+}
